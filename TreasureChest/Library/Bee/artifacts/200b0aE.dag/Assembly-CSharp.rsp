@@ -108,8 +108,8 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll"
@@ -330,6 +330,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs"
 "Assets/Scripts/SimpleCameraController.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:8.0

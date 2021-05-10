@@ -108,11 +108,11 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
--r:"/Users/leahhumphries/Downloads/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
+-r:"/Users/leahhumphries/Downloads/GitHub/COMP2007-SE1/TreasureChest/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Users/leahhumphries/Downloads/Unity/2021.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
